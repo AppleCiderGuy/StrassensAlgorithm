@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497645468 source:c:\users\harshal\desktop\codeblockrepo\strassensalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
